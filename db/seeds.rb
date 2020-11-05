@@ -1,4 +1,3 @@
-
 Customer.delete_all
 AdminUser.delete_all
 
